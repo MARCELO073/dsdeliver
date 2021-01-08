@@ -82,7 +82,7 @@ public class OrderDTO {
 		this.status = status;
 	}
 
-	public List<ProductDTO> getProduct() {
+	public List<ProductDTO> getProducts() {
 		return product;
 	}
 
